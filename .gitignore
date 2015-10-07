@@ -25,3 +25,14 @@ bootstrap.py
 #vim
 *.swp
 .ropeproject
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
+
